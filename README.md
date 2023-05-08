@@ -1,5 +1,3 @@
-![status](https://badge.stateful.com/Exillite/dnd.svg)
-
 # 👋 Hi, I’m Exillite!
 My name is Alexander Rodinov.
 
