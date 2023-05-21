@@ -13,7 +13,6 @@ Our team helps them get it: they are trained with mentoring and we find them rea
 
 If you want to work with us or you have commercial offers, write to me - alexander@rodionov.space
 
-<a href="https://t.me/greencod3"> <sub>My telegram cahhel in russin</sub> </a>
 
 >   For communication:
 > * **Email** alexander@rodionov.space
