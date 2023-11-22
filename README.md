@@ -11,13 +11,12 @@ Currently, I am engaged in a startup outsourcing development.
 I collaborate with people who dont have enough experience and knowledge. 
 Our team helps them get it: they are trained with mentoring and we find them real projects.
 
-If you want to work with us or you have commercial offers, write to me - alexander@rodionov.space
+If you want to work with us or you have commercial offers, write to me - sa27shal@gmail.com
 
 
 >   For communication:
-> * **Email** alexander@rodionov.space
+> * **Email** sa27shal@gmail.com
 > * **tg** @exillite
 > * **GH** https://github.com/Exillite
 > * **VK** @exillite
-> * **Gmail** sa27shal@gmail.com
 > * **CF** https://codeforces.com/profile/Exillite
