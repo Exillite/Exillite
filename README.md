@@ -13,5 +13,4 @@ I have a lot of experience with the deployment of applications and the developme
 > * **Email** alexander@rodionov.space
 > * **tg** @exillite
 > * **GH** https://github.com/Exillite
-> * **VK** @exillite
 > * **CF** https://codeforces.com/profile/Exillite
