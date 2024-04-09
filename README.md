@@ -9,8 +9,8 @@ I am quite familiar with web frontend technologies.
 I have a lot of experience with the deployment of applications and the development of tools for this.
 
 
->   For communication:
+>   ### For communication:
 > * **Email** alexander@rodionov.space
-> * **tg** @exillite
+> * **tg** [@exillite](https://t.me/exillite)
 > * **GH** https://github.com/Exillite
 > * **CF** https://codeforces.com/profile/Exillite
