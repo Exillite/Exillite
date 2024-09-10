@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Exillite!
-My name is Alexander Rodinov.
 
 My name is Alexander Rodionov.
 
