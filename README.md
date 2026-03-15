@@ -9,7 +9,7 @@ I have a lot of experience with the deployment of applications and the developme
 
 
 >   ### For communication:
-> * **Email** alexander@rodionov.space
-> * **tg** [@exillite](https://t.me/exillite)
+> * **Email** exillite@icloud.com
+> * **tg** [@exillite_work](https://t.me/exillite_work)
 > * **GH** https://github.com/Exillite
 > * **CF** https://codeforces.com/profile/Exillite
